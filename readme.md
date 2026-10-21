@@ -7,3 +7,5 @@ Voice-first inventory and sales management system for small businesses.
 - `backend/` - FastAPI backend
 - `frontend/` - Next.js frontend
 - `docs/` - Architecture and project documentation
+
+
